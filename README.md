@@ -46,8 +46,7 @@ This repository contains the following files and directories:
   - Tables and visualizations of Type I and Type II error rates.  
 - **`Plots`**:  
   - Graphical outputs showing error rates across variance-to-mean ratios and effect sizes.  
-- **`README.md`**: This file.  
-
+ 
 
 ## Results  
 
